@@ -17,3 +17,5 @@ xgboost
 
 # Machine learning ----------------------------
 scikit-learn
+keras
+tensorflow
